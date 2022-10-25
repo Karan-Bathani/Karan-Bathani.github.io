@@ -60120,7 +60120,7 @@ K(a,b){var s=null,r=this.uI(1000),q=this.uI(760)
 return A.b6(s,new A.ie(this.uI(b.H(t.w).f.a.a*0.8),q,r,s),s,s,s,s,s,s,s)},
 uI(a){return A.k3(new A.hY(new A.Vb(this,a),null),null,null)}}
 A.Vb.prototype={
-$2(a,b){var s,r,q,p,o,n=null,m=this.b,l=b.b>720,k=l?B.aa:B.az,j=l?1:0,i=A.bI("Employee Management App",n,n,A.dH(B.aL,16,B.ai,n,0.2),n,n),h=A.bI("M-LENZ",n,n,A.dH(B.j,35,B.ai,1.3,n),n,n),g=A.bI("An app to manage employees, assign tasks and keep track of the progress. Developed for multiple hierarchy of users.",n,n,A.dc(n,n,B.ac,n,n,n,n,n,n,n,n,15,n,n,n,1.5,!0,n,n,n,n,n,n,n,n),n,n),f=t.t,e=A.a1_(A.b([new A.ep(A.b([A.bI(" Features:",n,n,A.dH(B.aL,16,B.a_,n,n),n,n),A.bI(" Tech Used:",n,n,A.dH(B.aL,16,B.a_,n,n),n,n)],f))],t.w2)),d=J.ux(8,t.Ef)
+$2(a,b){var s,r,q,p,o,n=null,m=this.b,l=b.b>720,k=l?B.aa:B.az,j=l?1:0,i=A.bI("Workforce Management Application",n,n,A.dH(B.aL,16,B.ai,n,0.2),n,n),h=A.bI("M-LENZ",n,n,A.dH(B.j,35,B.ai,1.3,n),n,n),g=A.bI("An app to manage employees, assign tasks and keep track of the progress. Developed for multiple hierarchy of users.",n,n,A.dc(n,n,B.ac,n,n,n,n,n,n,n,n,15,n,n,n,1.5,!0,n,n,n,n,n,n,n,n),n,n),f=t.t,e=A.a1_(A.b([new A.ep(A.b([A.bI(" Features:",n,n,A.dH(B.aL,16,B.a_,n,n),n,n),A.bI(" Tech Used:",n,n,A.dH(B.aL,16,B.a_,n,n),n,n)],f))],t.w2)),d=J.ux(8,t.Ef)
 for(s=this.a,r=s.d,s=s.c,q=0;q<8;++q){p=q!==7?"  - "+s[q]:"and many more..."
 p=A.bI(p,n,n,new A.r(!0,B.ac,n,n,n,n,15,n,n,n,n,n,1.5,n,n,n,n,n,n,n,n,n,n,n,n),n,n)
 o=r[q]
@@ -60137,9 +60137,9 @@ A.a25.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=this.b,f=b.b>720,e=f?B.aa:B.az,d=f?1:0
 d=A.lQ(A.De("assets/fg_1.jpg",h,f?h:350),d)
 f=f?1:0
-s=A.bI("White Labelled E Commerce App",h,h,A.dH(B.aL,16,B.ai,h,0.2),h,h)
+s=A.bI("White Labelled - E Commerce Application",h,h,A.dH(B.aL,16,B.ai,h,0.2),h,h)
 r=A.bI("WAPPY",h,h,A.dH(B.j,35,B.ai,1.3,h),h,h)
-q=A.bI("This is a generic applicaiton built using flutter whose app code can be re-used multiple times by different businesses to rebrand as it's own.",h,h,A.dc(h,h,B.ac,h,h,h,h,h,h,h,h,15,h,h,h,1.5,!0,h,h,h,h,h,h,h,h),h,h)
+q=A.bI("This is a generic applicaiton built using flutter whose source code can be re-used multiple times by different businesses to rebrand as it's own.",h,h,A.dc(h,h,B.ac,h,h,h,h,h,h,h,h,15,h,h,h,1.5,!0,h,h,h,h,h,h,h,h),h,h)
 p=t.t
 o=A.a1_(A.b([new A.ep(A.b([A.bI(" Features:",h,h,A.dH(B.aL,16,B.a_,h,h),h,h),A.bI(" Tech Used:",h,h,A.dH(B.aL,16,B.a_,h,h),h,h)],p))],t.w2))
 n=J.ux(8,t.Ef)
